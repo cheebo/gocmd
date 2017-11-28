@@ -9,6 +9,9 @@ type InitCommand struct {
 
 func (cmd *InitCommand) Run(args []string) int {
 
+	/**
+		You command code here
+	 */
 	println("Init")
 
 	return 0
